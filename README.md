@@ -1,2 +1,0 @@
-# legendary-succotash
-project3
